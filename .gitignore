@@ -1,0 +1,9 @@
+# Node modules y dependencias de frontend
+/app/node_modules
+/app/dist
+
+# Dependencias de Python
+/backend/.venv/
+
+# Archivos de configuración específicos del entorno
+.env
